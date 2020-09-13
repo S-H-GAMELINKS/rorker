@@ -13,6 +13,6 @@ jobs:
         ruby-version: head
     - name: Run the default task
       run: |
-        gem install bundler -v 2.2.0.dev
+        gem install bundler
         bundle install
         bundle exec rake
