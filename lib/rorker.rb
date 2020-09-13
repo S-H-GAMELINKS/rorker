@@ -2,7 +2,7 @@
 
 require "rorker/version"
 
-module Rorker
+class Rorker
   class Error < StandardError; end
   # Your code goes here...
 end

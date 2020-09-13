@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
-module Rorker
+class Rorker
   VERSION = "0.1.0"
 end
